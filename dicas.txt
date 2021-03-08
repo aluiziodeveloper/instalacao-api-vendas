@@ -1,0 +1,14 @@
+Criei o repositório https://github.com/aluiziodeveloper/instalacao-api-vendas com a instalação inicial e configuração do Editorconfig, ESLint e Prettier.
+
+Depois de percorrer o processo de instalação identifiquei os plugins que pararam de funcionar nas versões mais recentes, são eles:
+
+eslint-config-prettier
+eslint-plugin-prettier
+
+Com isso, basta substituir a instalação desses dois pacotes da seguinte forma:
+
+yarn add eslint-config-prettier@6.15.0 eslint-plugin-prettier@3.2.0 -D
+
+Se preferir, pode clonar o repositório acima e seguir o processo de desenvolvimento do projeto.
+
+Obs.: inseri o arquivo settings.json na raiz desse repositório com toda a configuração que uso em meu VSCode para servir de base para a sua configuração.
