@@ -19,7 +19,7 @@ Acesse a [página do curso na Udemy](https://www.udemy.com/course/api-restful-de
 
 ## Repositório inicial
 
-Este repositório possui a estrutura inicial do projeto, incluindo as configurações das ferramentas de arrumação de código e verificação de sintaxe.
+Este repositório possui a instalação e configuração inicial do projeto da API de Vendas, já com o Editorconfig, ESLint e Prettier configurados.
 
 ## Rodando a aplicação no seu PC
 
@@ -52,10 +52,3 @@ Após essa instalação execute a aplicação com o comando `yarn dev` ou `npm r
 [Servidor no Discord](https://discord.gg/3J87BMz5fD)
 
 [LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
-
-
-
-
-
-# instalacao-api-vendas
-Instalação e configuração inicial do projeto da API de Vendas, já com o Editorconfig, ESLint e Prettier configurados.
